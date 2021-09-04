@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+    width: 70%;
+    overflow: auto;
+}
+
+.comp {
+    width: 50%;
+    background-color: blueviolet;
+    float: left;
+}
+
+.txt-cen {
+    text-align: center;
+}
+
+.txt-1 {
+    font-size: 1.25rem;
+}
